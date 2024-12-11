@@ -10,7 +10,7 @@ npm install @mohammed000/my-greeting
 
 ### Usage
 // Import the module
-const greet = require('my-greeting');
+const greet = require('@mohammed000/my-greeting');
 
 // Use the module
 console.log(greet('Alice')); // Outputs: Hello, Alice! Welcome to the Node.js world!
